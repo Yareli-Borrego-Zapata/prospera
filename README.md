@@ -10,7 +10,14 @@ El propósito principal es crear una herramienta que permita registrar ingresos 
 - Especialidad: Programacion
 - 23308060610278
 
+![wasap](https://github.com/user-attachments/assets/e19f7b47-df06-496c-9a66-643f48b939f2)
 
+- Martinez Valtierra Esmeralda
+- 6-D
+- Especialidad: Programacion
+- 23308060610235
+
+![wasap2](https://github.com/user-attachments/assets/c6487bb5-6000-4bab-8d80-2cf5c364c28c)
 
 
 
